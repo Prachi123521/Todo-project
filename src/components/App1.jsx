@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect } from 'react';
-import { useState } from 'react'
+import { useState } from 'react';
 
 const App1 = () => {
   const[count,setCount]=useState(0);
